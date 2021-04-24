@@ -15,6 +15,7 @@ Technologies used in the project
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
+- [Sass](https://sass-lang.com/)
 
 <h2>
   🔗  Installation
