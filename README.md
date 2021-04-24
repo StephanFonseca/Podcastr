@@ -1,8 +1,8 @@
 <div align="center">
-  <img src=".public/logo.svg" alt="Podcastr logo">
+  <img src="./public/logo.svg" alt="Podcastr logo">
 </div>
 
-![Badge](.apresentation.gif)
+![Badge](apresentation.gif)
 
 ## 💻 Project presentation
 
