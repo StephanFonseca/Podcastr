@@ -2,7 +2,7 @@
   <img src="./public/logo.svg" alt="Podcastr logo">
 </div>
 
-![Badge](apresentation.gif)
+![Apresentation](https://user-images.githubusercontent.com/77129569/115946862-54d38800-a49a-11eb-94f0-aab75e02b316.gif)
 
 ## 💻 Project presentation
 
