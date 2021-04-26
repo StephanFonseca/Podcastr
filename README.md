@@ -16,7 +16,7 @@ Technologies used in the project
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
-- [API]
+- [API](https://github.com/StephanFonseca/Podcastr)
 
 ## 🔖 Layout
   You can view the project layout through the links below:
