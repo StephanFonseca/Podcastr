@@ -16,6 +16,13 @@ Technologies used in the project
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
 - [Sass](https://sass-lang.com/)
+- [API]
+
+## 🔖 Layout
+  You can view the project layout through the links below:
+
+  - [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761)
+  - Remembering that you need to have a [Figma](https://figma.com) account to access it.
 
 <h2>
   🔗  Installation
@@ -47,4 +54,7 @@ $ yarn dev
 
 The app will be available for access on your browser at **http://localhost:3000**
 
-<h4 align=center>Buit by <a href="https://www.linkedin.com/in/stephan-serafim-fonseca-71a388202/">Stephan Fonseca</a></h4>
+## 📝 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+<h4 align=center>Buit with 💜 by <a href="https://www.linkedin.com/in/stephan-serafim-fonseca-71a388202/">Stephan Fonseca</a></h4>
